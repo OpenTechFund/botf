@@ -7,6 +7,7 @@
   "hubot-incoming-webhook",
   "hubot-pugme",
   "hubot-maps",
+  "hubot-raven",
   "hubot-redis-brain",
   "hubot-rules",
   "hubot-shipit"
