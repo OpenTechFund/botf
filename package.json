@@ -5,14 +5,14 @@
   "author": "Josh King <josh@throneless.tech>",
   "description": "A simple, helpful robot for OTF",
   "dependencies": {
-    "hubot": "^3.1.1",
+    "hubot": "^3.3.2",
     "hubot-diagnostics": "^1.0.0",
     "hubot-help": "^1.0.1",
     "hubot-heroku-keepalive": "^1.0.3",
-    "hubot-incoming-webhook": "throneless-tech/hubot-incoming-webhook#multiroom",
+    "hubot-incoming-webhook": "github:throneless-tech/hubot-incoming-webhook#multiroom",
     "hubot-raven": "^0.0.2",
     "hubot-redis-brain": "^1.0.0",
-    "hubot-slack": "^4.5.5"
+    "hubot-slack": "^4.7.1"
   },
   "engines": {
     "node": "8.11.x"
